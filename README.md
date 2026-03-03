@@ -1,4 +1,4 @@
-# 🛡️ SENTINEL
+# 🛡️ A.E.R.I.S
 ### Real-time Violence & Fall Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
